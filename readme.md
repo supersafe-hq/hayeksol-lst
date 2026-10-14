@@ -28,7 +28,7 @@ The HayekSOL LST is being deployed with Sanctum
   - Name: "Hayek Staked SOL"
   - Symbol: "HayekSOL"
   - Description: "MEV-Powered Liquid Staking from the Hayek Validator"
-  - Image: "https://team-supersafe.github.io/hayeksol-lst/HayekSOL.svg"
+  - Image: "https://supersafe-hq.github.io/hayeksol-lst/HayekSOL.svg"
   - Website: "https://hayek.fi"
 - Disable Freeze Authority
 - Transfer Mint Authority to Sanctum (`GRwm4EXMyVwtftQeTft7DZT3HBRxx439PrKq4oM6BwoZ`)
